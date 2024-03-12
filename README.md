@@ -1,3 +1,3 @@
-# Web_Development_Project
-This is a Web_Development end_to_end project.
+# Amazon_Clone_Project
+This is a Amazon Clone Project using html and css.
 
